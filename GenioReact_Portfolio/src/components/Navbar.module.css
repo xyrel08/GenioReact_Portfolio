@@ -1,0 +1,13 @@
+@import "../vars.css";
+.navbar{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.title{
+
+}
+.menu{
+
+}
