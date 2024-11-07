@@ -5,7 +5,7 @@ export const Hero = () => {
     <section>
         <div>
             <h1>
-            Hello I'm Xyrel Genio, an aspiring software developer.    
+            Hello I'm Xyrel Genio, an aspiring software developer.This is my portfolio showcasing my projects and skills and experience.    
             </h1>
         </div>
     </section>
