@@ -13,8 +13,9 @@ export const Hero = () => {
               I am an aspiring software developer. This is my portfolio showcasing my projects and skills and experience.
             </p>
             <a href="mailto:xyrelgenio08@gmail.com" className={styles.contact}>Contact Me</a>
-            <img src={getImageUrl('hero/heroImage.png')}alt='Image of Me' className={styles.image}></img>
+            
         </div>
+        <img src={getImageUrl('05XYREL.jpg')}alt='Image of Me' className={styles.myImage}></img>
         <div className={styles.top}>
 
         </div>
