@@ -18,5 +18,18 @@
     {
       "title": "Figma",
       "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "Dart",
+      "imageSrc": "dart.png"
+    },
+    {
+      "title": "Flutter",
+      "imageSrc": "flutter.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "Java-Logo.png"
     }
+    
   ]
