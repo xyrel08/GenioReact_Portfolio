@@ -4,26 +4,15 @@
       "organisation": "Chrisimm Sentimo Kumon",
       "startDate": "March 2023",
       "endDate": "July 2023",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "experiences": ["Managed company website using Wix editor", "Made different pubmats and social media contents","Helped in creating the Attendance monitoring system using php"],
+      "imageSrc": "Chrisimm.jpg"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
-    }
+      "role": "Software Developer Intern",
+      "organisation": "Philippine Statistics Authority",
+      "startDate": "Oct, 2024",
+      "endDate": "January, 2025",
+      "experiences": ["Studied JavaScript, TypeScript and Go Language", "Attended meetings and workshops"],
+      "imageSrc": "psa.png"
+    }   
   ]
