@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Siklisto",
+      "imageSrc": "siklisto.png",
+      "description": "This is an android app project that was deployed in Google playstore. The app is about finding ebike chargers in the NCR and helping users calculate their charging time using the app.The framework that was used is Flutter.",
+      "skills": ["Flutter", "Dart", "Firebase","Android Studio"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "DormHunt",
+      "imageSrc": "siklisto.png",
+      "description": "This is an android app project that was deployed in Google playstore. The app is about finding ebike chargers in the NCR and helping users calculate their charging time using the app.The framework that was used is Flutter.",
+      "skills": ["Flutter", "Dart", "Firebase","Android Studio"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Tesda Java NCIII",
+      "imageSrc": "siklisto.png",
+      "description": "This is an android app project that was deployed in Google playstore. The app is about finding ebike chargers in the NCR and helping users calculate their charging time using the app.The framework that was used is Flutter.",
+      "skills": ["Flutter", "Dart", "Firebase","Android Studio"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
