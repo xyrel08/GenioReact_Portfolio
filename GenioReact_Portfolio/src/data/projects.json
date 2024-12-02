@@ -4,23 +4,23 @@
       "imageSrc": "siklisto.png",
       "description": "This is an android app project that was deployed in Google playstore. The app is about finding ebike chargers in the NCR and helping users calculate their charging time using the app.The framework that was used is Flutter.",
       "skills": ["Flutter", "Dart", "Firebase","Android Studio"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://play.google.com/store/apps/details?id=com.ebike_charging_station_finder_ncr.siklisto",
+      "source": "https://github.com/dvjnpojascodes/ebike-charging-station-finder"
     },
     {
       "title": "DormHunt",
-      "imageSrc": "siklisto.png",
-      "description": "This is an android app project that was deployed in Google playstore. The app is about finding ebike chargers in the NCR and helping users calculate their charging time using the app.The framework that was used is Flutter.",
-      "skills": ["Flutter", "Dart", "Firebase","Android Studio"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "imageSrc": "DormHunt.png",
+      "description": "This is a web app project in VB.NET. The app is about finding available dorms in NCR for students.",
+      "skills": ["SQL","MS ACCESS","VB .NET"],
+      "demo": "https://github.com/aldrinPA/FinalProjectOOP",
+      "source": "https://github.com/aldrinPA/FinalProjectOOP"
     },
     {
       "title": "Tesda Java NCIII",
       "imageSrc": "siklisto.png",
       "description": "This is an android app project that was deployed in Google playstore. The app is about finding ebike chargers in the NCR and helping users calculate their charging time using the app.The framework that was used is Flutter.",
-      "skills": ["Flutter", "Dart", "Firebase","Android Studio"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "skills": ["Java","OOP"],
+      "demo": "https://github.com/xyrel08/training",
+      "source": "https://github.com/xyrel08/training"
     }
   ]
