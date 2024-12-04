@@ -17,8 +17,8 @@
     },
     {
       "title": "Tesda Java NCIII",
-      "imageSrc": "siklisto.png",
-      "description": "This is an android app project that was deployed in Google playstore. The app is about finding ebike chargers in the NCR and helping users calculate their charging time using the app.The framework that was used is Flutter.",
+      "imageSrc": "java.png",
+      "description": "This are the assignments/activities that I've done during my TESDA JAVA NCIII course. There are different activities in here that uses java which includes OOP, abstraction,inheritance etc.",
       "skills": ["Java","OOP"],
       "demo": "https://github.com/xyrel08/training",
       "source": "https://github.com/xyrel08/training"

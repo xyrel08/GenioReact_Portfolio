@@ -18,19 +18,19 @@ export const Contact = () => {
           <a href="mailto:xyrelgenio08@gmail.com">xyrelgenio08@gmail.com</a>
         </li>
         <li className={styles.link}>
-          <a href="https://www.linkedin.com/in/xyrel-genio">
+          <a href="https://www.linkedin.com/in/xyrel-genio" target="_blank" >
           <img 
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           /></a>
           
-          <a href="https://www.linkedin.com/in/xyrel-genio">www.linkedin.com/in/xyrel-genio</a>
+          <a href="https://www.linkedin.com/in/xyrel-genio" target="_blank">www.linkedin.com/in/xyrel-genio</a>
         </li>
         <li className={styles.link}>
-        <a href="https://www.github.com/xyrel08">
+        <a href="https://www.github.com/xyrel08" target="_blank">
           <img src={getImageUrl("contact/githubIcon.png")} alt="Github icon" />
           </a>
-          <a href="https://www.github.com/xyrel08">github.com/xyrel08</a>
+          <a href="https://www.github.com/xyrel08" target="_blank">github.com/xyrel08</a>
         </li>
       </ul>
     </footer>
