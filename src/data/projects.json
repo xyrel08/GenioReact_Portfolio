@@ -22,5 +22,21 @@
       "skills": ["Java","OOP"],
       "demo": "https://github.com/xyrel08/training",
       "source": "https://github.com/xyrel08/training"
+    },
+    {
+      "title": "Photo Gallery Site",
+      "imageSrc": "basicphotographysite.png",
+      "description": "This is the site I developed for my photography class as a gallery",
+      "skills": ["React","JavaScript","HTML","CSS"],
+      "demo": "https://github.com/xyrel08/basicPhoto_Finals",
+      "source": "https://genio-basicphotography-finals.netlify.app/"
+    },
+    {
+      "title": "Currency Converter",
+      "imageSrc": "currency_converter.png",
+      "description": "This is a currency converter site that uses currency converter API",
+      "skills":  ["React","JavaScript","HTML","CSS","API"],
+      "demo": "https://github.com/xyrel08/currency-converter",
+      "source": "https://currency-converter-xyrel.vercel.app/"
     }
   ]
